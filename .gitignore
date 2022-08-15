@@ -7,6 +7,9 @@ launch.json
 # LLVM
 *.dSYM
 
+# Prerequisites
+*.d
+
 # Compiled Object files
 *.slo
 *.lo
@@ -24,6 +27,7 @@ launch.json
 
 # Fortran module files
 *.mod
+*.smod
 
 # Compiled Static libraries
 *.lai
