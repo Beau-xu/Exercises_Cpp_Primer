@@ -10,7 +10,7 @@ int sum(initializer_list<int> iList)
     return res;
 }
 
-int main(int argc, char* argv[])
+int main()
 {
     int ans = 0;
     ans = sum({ 4, 5, 9 });
